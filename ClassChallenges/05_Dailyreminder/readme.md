@@ -15,7 +15,7 @@ print "Relax and enjoy the weekend!"
 If the day is Saturday 
 print "Go for a hike!"
 If the day is Sunday
-print: "Prepare for the week ahead with some self-care."
+print "Prepare for the week ahead with some self-care."
 
 End
 
