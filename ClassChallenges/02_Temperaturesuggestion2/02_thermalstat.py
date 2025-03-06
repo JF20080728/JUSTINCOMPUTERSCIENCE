@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:       Temperature Advice
+# Purpose:     To provide information  that asks the user for the current temperature and suggests whether they should wear a jacket, short-sleeves, or stay indoors.
+# Author:      Justin Fung
+# Created:     4-March-2025
+#-----------------------------------------------------------------------------
+
+
 TEMP = int(input("enter your temperature in Celsius: "))
 
 if TEMP  <10:

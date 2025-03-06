@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:      Day of the Week Activity Recommender
+# Purpose:     To provide information that suggests an activity based on the day of the week.
+# Author:      Justin Fung
+# Created:     4-March-2025
+#-----------------------------------------------------------------------------
+
+
+
 DAY = input("what is the current day of the week ")
 if DAY == "Monday":
     print("Start your week with a workout!")
