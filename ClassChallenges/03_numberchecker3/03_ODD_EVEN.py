@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:       Even or Odd Number Checker
 # Purpose:     To provide information  that asks the user for a number and then tells them if the number is even or odd.
-# Author:      Justin Fung
+# Author:      Justin.F
 # Created:     4-March-2025
 #-----------------------------------------------------------------------------
 
