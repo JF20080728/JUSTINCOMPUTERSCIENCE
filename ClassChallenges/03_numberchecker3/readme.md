@@ -1,5 +1,6 @@
-Even or Odd Number Checker
-start
+# start
+### Even or Odd Number Checker
+
 prompt the user to enter a number
 Store the number in a variable called number.
 If the number is divisible by 2

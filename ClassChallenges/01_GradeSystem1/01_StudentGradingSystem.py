@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:         Student Grading System
+# Name:        Student Grading System
 # Purpose:     To provide information that asks for a student's score and then provides a grade based on the score.
 # Author:      Justin Fung
 # Created:     4-March-2025

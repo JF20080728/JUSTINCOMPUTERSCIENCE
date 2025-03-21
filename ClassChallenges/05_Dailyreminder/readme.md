@@ -1,5 +1,5 @@
-Day of the Week Activity Recommender
-Start
+# Start
+### Day of the Week Activity Recommender
 Prompt the user to enter their day of the week
 Store the day in a variable called day.
 If the day is Monday

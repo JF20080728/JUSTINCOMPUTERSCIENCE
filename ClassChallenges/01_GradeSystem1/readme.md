@@ -1,5 +1,6 @@
-Creating a grading system made from python
-Start
+# Start
+### Creating a grading system made from python
+
 Prompt the user to enter their score (out of 100).
 Store the score in a variable called score.
 If the score is greater than or equal to 90:

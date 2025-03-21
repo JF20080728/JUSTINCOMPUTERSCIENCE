@@ -1,5 +1,5 @@
-Voting Eligibility Checker
-Start
+# Start
+### Voting Eligibility Checker
 Prompt the user to enter their age.
 Store the age in a variable called age.
 If the age is greater than or equal to 18:
