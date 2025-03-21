@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:      Voting Eligibility Checker
 # Purpose:     To provide information that checks if a person is eligible to vote based on their age.
-# Author:      Justin.F
+# Author:      Justin
 # Created:     4-March-2025
 #-----------------------------------------------------------------------------
 

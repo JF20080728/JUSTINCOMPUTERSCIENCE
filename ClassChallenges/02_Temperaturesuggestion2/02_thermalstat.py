@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:       Temperature Advice
 # Purpose:     To provide information  that asks the user for the current temperature and suggests whether they should wear a jacket, short-sleeves, or stay indoors.
-# Author:      Justin.F
+# Author:      Justin
 # Created:     4-March-2025
 #-----------------------------------------------------------------------------
 

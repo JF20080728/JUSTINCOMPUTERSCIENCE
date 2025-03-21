@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:      Day of the Week Activity Recommender
 # Purpose:     To provide information that suggests an activity based on the day of the week.
-# Author:      Justin.F
+# Author:      Justin
 # Created:     4-March-2025
 #-----------------------------------------------------------------------------
 
