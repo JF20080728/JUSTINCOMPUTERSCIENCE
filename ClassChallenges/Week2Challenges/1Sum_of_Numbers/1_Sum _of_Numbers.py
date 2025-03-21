@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:         Sum of Numbers
 # Purpose:     Write a program that asks the user for a number and calculate the sum of all numbers from 1 to the given number using a for loop
-# Author:      Justin.F
+# Author:      Justin
 # Created:     18-March-2025
 #-----------------------------------------------------------------------------
 
