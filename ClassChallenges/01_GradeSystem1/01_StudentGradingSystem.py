@@ -1,9 +1,10 @@
 #-----------------------------------------------------------------------------
 # Name:        Student Grading System
 # Purpose:     To provide information that asks for a student's score and then provides a grade based on the score.
-# Author:      Justin Fung
+# Author:      Justin
 # Created:     4-March-2025
 #-----------------------------------------------------------------------------
+
 
 GRADES= int(input("what is your grading score "))
 if GRADES >= 90 and GRADES <= 100:
