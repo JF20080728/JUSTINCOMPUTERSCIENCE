@@ -6,8 +6,8 @@
 #-----------------------------------------------------------------------------
 
 
-number = int(input("Enter a number: "))
-total = 0
-for i in range (1, number+1):
-    total = total + i
-print("the sum of numbers adding between 1 and", number, "is", total)
+number = int(input("Enter a number: ")) #prompt the user to enter a number
+total = 0 #start a variable to store the sum
+for i in range (1, number+1): #loop from 1 to number
+    total = total + i #add current number i to the sum
+print("the sum of numbers adding between 1 and", number, "is", total) #prints the sum of the number

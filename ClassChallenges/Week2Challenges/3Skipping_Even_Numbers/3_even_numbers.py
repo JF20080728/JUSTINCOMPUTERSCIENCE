@@ -6,7 +6,7 @@
 #-----------------------------------------------------------------------------
 
 
-for number in range(1, 11):
-    if number % 2 == 0:
-        continue
-    print(number)
+for number in range(1, 11): #loops numbers from 1 to 10
+    if number % 2 == 0: #identifies if the number is even
+        continue #skip the loop for even number
+    print(number) #print number if its odd
