@@ -5,11 +5,11 @@
 # Created:     27-March-2025
 #-----------------------------------------------------------------------------
 
-list= ['apples', 'bread', 'milk', 'egg']
-print("this is your current grocery list")
-print(list)
-print("adding cheese and tomatoes to the current list")
-list.append("cheese")
-list.append("tomatoes")
-print("this is your new and updated grocery list")
-print(list)
+list= ['apples', 'bread', 'milk', 'egg'] #create the list with items
+print("this is your current grocery list") #informing the user of the message
+print(list) #print the current list
+print("adding cheese and tomatoes to the current list") #telling the user that the list is changing and adding more items to the lists
+list.append("cheese") #adding cheese to the list
+list.append("tomatoes") #adding tomatoes to the list
+print("this is your new and updated grocery list") #telling the user that the list has changed
+print(list) #print the new and updated list
