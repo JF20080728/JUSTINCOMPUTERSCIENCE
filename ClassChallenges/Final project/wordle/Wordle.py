@@ -13,7 +13,7 @@ def is_valid_guess(guess, guesses):
 
 #function to check the guessed word with the secret word
 def evaluate_guess(guess, word):
-    result = "" #make thes colour of the result
+    result = "" #make the colour of the result
 
 
     for i in range(5): #loop over each character in the 5 letter guess
